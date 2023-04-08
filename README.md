@@ -48,7 +48,7 @@
                   </tr>  
                   <tr>
                   <td align="center" height="25" width="200"><p style="color:blue">Ques.1</td>
-                  <td align="center" height="25" width="200"><p style="color:blue">Operating System</td                                         <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
+                  <td align="center" height="25" width="200"><p style="color:blue">Operating System</td>                                       <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
                   </tr>
                   </table>               
   </section>                                                                   
