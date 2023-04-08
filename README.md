@@ -27,7 +27,13 @@
                        </tr>
                   </table> <br>
   </section>                                     
-                                          
+  <section>
+                       <center><ul></center>
+                       <font color="blue">
+                          <center><li>Practical Part A</li></center>
+                       </font>
+                       <center></ul></center> <br>
+   </section>                                        
                                                                      
                                          
    
