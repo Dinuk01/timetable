@@ -89,6 +89,7 @@
 
 <section>
                <center><img src="catjpg" alt="images(1).jpg" width="400px"></center>
+      </section>
    </body>
    </main>
    </html>
