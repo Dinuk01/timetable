@@ -6,7 +6,7 @@
    <section>
       <center><h1><p style="color:blue">National IT Center</h1></center>
                   <center><h2><p style="color:blue">Final Examination-January 2023</h2></center>
-                              <center><h3><p style="color:blue">National Certificate of Information and Communication Technology</h3></center>
+                              <center><h3><p style="color:blue">National Certificate of Information and Communication Technology</h3></center>     
                                          
                                          <center><ul></center>
                                           <font color="blue">
@@ -17,6 +17,6 @@
    </section>
    </body>
    </main>
-   </html>
+</html>
 
  
