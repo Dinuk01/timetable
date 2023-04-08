@@ -35,7 +35,7 @@
                        <center></ul></center> <br>
    </section>                                        
    <section>
-      <table border="5" cellspacing="3" style="background-color:gray;border-color:blue" align="center">
+                  <table border="5" cellspacing="3" style="background-color:gray;border-color:blue" align="center">
                   <tr>
                   <td align="center" height="25" width="200">
                   <b><p style="color:blue">Question Number</b>
@@ -46,8 +46,11 @@
                   <td align="center" height="25" width="100"> <b><p style="color:blue">Duration</b>
                   </td>
                   </tr>  
-                 
-      </table>               
+                  <tr>
+                  <td align="center" height="25" width="200"><p style="color:blue">Ques.1</td>
+                  <td align="center" height="25" width="200"><p style="color:blue">Operating System</td                                         <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
+                  </tr>
+                  </table>               
   </section>                                                                   
                                          
    
