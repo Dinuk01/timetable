@@ -67,7 +67,8 @@
   </section>                                                                   
       <center><ul></center>
       <center><li>Practical Part B....</li></center>
-      <center></ul></center> <br>                                   
+      <center></ul></center> <br>                                                                                              <center><a href="https://www.tvec.gov.lk/">Registration</a></center> <br>     
+
    
  
    </body>
