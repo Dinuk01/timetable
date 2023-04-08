@@ -68,8 +68,9 @@
                                  <td align="center" height="25" width="200"><p style="color:blue">Presentaion</td>
                                          <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
                       </td>
-                    </table> <br>
-</section>                                                                   
+                    </table> 
+    
+  </section>                                                                   
                                          
    
    </body>
