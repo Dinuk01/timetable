@@ -35,41 +35,19 @@
                        <center></ul></center> <br>
    </section>                                        
    <section>
-
-                   <table border="5" cellspacing="3" style="background-color:gray;border-color:blue" align="center">
-                     <tr>
-                        <td align="center" height="25" width="200">
-                            <b><p style="color:blue">Question Number</b>
-                        </td>
-                             <td align="center" height="25" width="200">
-                                <b><p style="color:blue">Module</b>
-                             </td>
-                                 <td align="center" height="25" width="100">
-                                      <b><p style="color:blue">Duration</b>
-                                 </td>
-                      </tr>
-                      <tr>
-                           <td align="center" height="25" width="200"><p style="color:blue">Ques.1</td>
-                                 <td align="center" height="25" width="200"><p style="color:blue">Operating System</td>
-                                         <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
-                      </tr>
-                      <tr>
-                          <td align="center" height="25" width="200"><p style="color:blue">Ques.2</td>
-                                 <td align="center" height="25" width="200"><p style="color:blue">Word Processing</td>
-                                         <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
-                      </tr>
-                      <tr>
-                            <td align="center" height="25" width="200"><p style="color:blue">Ques.3</td>
-                                 <td align="center" height="25" width="200"><p style="color:blue">Spreadsheets</td>
-                                         <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
-                      </tr>
-                      <tr>
-                               <td align="center" height="25" width="200"><p style="color:blue">Ques.4</td>
-                                 <td align="center" height="25" width="200"><p style="color:blue">Presentaion</td>
-                                         <td align="center" height="25" width="100"><p style="color:blue">30 minutes</td>
-                      </td>
-                    </table> 
-    
+      <table border="5" cellspacing="3" style="background-color:gray;border-color:blue" align="center">
+                  <tr>
+                  <td align="center" height="25" width="200">
+                  <b><p style="color:blue">Question Number</b>
+                  </td>
+                  <td align="center" height="25" width="200">
+                  <b><p style="color:blue">Module</b>
+                  </td>
+                  <td align="center" height="25" width="100"> <b><p style="color:blue">Duration</b>
+                  </td>
+                  </tr>  
+                 
+      </table>               
   </section>                                                                   
                                          
    
